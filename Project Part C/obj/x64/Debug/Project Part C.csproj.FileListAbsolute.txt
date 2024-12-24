@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\bin\x64\Debug\Project Part C.exe.config
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\bin\x64\Debug\Project Part C.exe
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\bin\x64\Debug\Project Part C.pdb
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\obj\x64\Debug\Project Part C.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\obj\x64\Debug\Project Part C.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\obj\x64\Debug\Project Part C.exe
+C:\Users\Дмитрий\source\repos\Project Part C\Project Part C\obj\x64\Debug\Project Part C.pdb

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0907576B-2187-40D3-8399-4E90D738E0C4}|Tests1\\Tests1.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\project part c\\tests1\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0907576B-2187-40D3-8399-4E90D738E0C4}|Tests1\\Tests1.csproj|solutionrelative:tests1\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\project part c\\project part c\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\project part c\\project part c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\pizzeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\pizzeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\pizzaname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\pizzaname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\project part c\\iinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D273CA53-D037-47F8-A7FF-422E9682FB11}|Project Part C\\Project Part C.csproj|solutionrelative:project part c\\iinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Project Part C\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\ClassDiagram1.cd*",
+              "RelativeToolTip": "Project Part C\\ClassDiagram1.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-23T19:17:15.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Tests1\\IntegrationTest1.cs",
+              "RelativeDocumentMoniker": "Tests1\\IntegrationTest1.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Tests1\\IntegrationTest1.cs",
+              "RelativeToolTip": "Tests1\\IntegrationTest1.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:13:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Pizza.cs",
+              "RelativeDocumentMoniker": "Project Part C\\Pizza.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Pizza.cs",
+              "RelativeToolTip": "Project Part C\\Pizza.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:21:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Program.cs",
+              "RelativeDocumentMoniker": "Project Part C\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Program.cs",
+              "RelativeToolTip": "Project Part C\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:18:50.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\IInteraction.cs",
+              "RelativeDocumentMoniker": "Project Part C\\IInteraction.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\IInteraction.cs",
+              "RelativeToolTip": "Project Part C\\IInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:22:01.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Order.cs",
+              "RelativeDocumentMoniker": "Project Part C\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Order.cs",
+              "RelativeToolTip": "Project Part C\\Order.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:21:48.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaName.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\PizzaName.cs",
+              "RelativeDocumentMoniker": "Project Part C\\PizzaName.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\PizzaName.cs",
+              "RelativeToolTip": "Project Part C\\PizzaName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:21:06.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pizzeria.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Pizzeria.cs",
+              "RelativeDocumentMoniker": "Project Part C\\Pizzeria.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Pizzeria.cs",
+              "RelativeToolTip": "Project Part C\\Pizzeria.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:20:52.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Worker.cs",
+              "RelativeDocumentMoniker": "Project Part C\\Worker.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Worker.cs",
+              "RelativeToolTip": "Project Part C\\Worker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:20:04.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Person.cs",
+              "RelativeDocumentMoniker": "Project Part C\\Person.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Project Part C\\Project Part C\\Person.cs",
+              "RelativeToolTip": "Project Part C\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:19:52.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
